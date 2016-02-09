@@ -1,0 +1,28 @@
+name: AI Demo
+favicon: null
+layout_spectrum: 0.26684525376185775
+typography_spectrum: 0.031943923560902476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6527376908343285
+  lightness: 0.25684011448174715
+  saturation: 0.3450844425242394
+  rhythmicContrast: 0.6730348903220147
+purpose: []
